@@ -3,12 +3,6 @@
 ## Credentials
 The system has been seeded with the following users:
 
-| Role | Username | Password |
-|------|----------|----------|
-| **Admin** | `admin` | `password123` |
-| **Staff** | `staff_smith` (or generated) | `password123` |
-| **Student** | `student_1` (or generated) | `password123` |
-
 *Note: Faker has generated 200+ students and 5 staff members. You can log in with `admin` to view them all.*
 
 ## Features
